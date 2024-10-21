@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The game Assassin's Creed 3 is what started me down the path to becoming a programmer
 
 ## 📄 My CV:
-<a href="https://drive.google.com/file/d/1jH39ibal6cjyBlR6yxY29kQ_ZvW3XwE4/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1adch8DKRWMbdX8t4fzzQFLV7zf6-A3Em/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="CV Button"/>
 </a>
 <br/>
