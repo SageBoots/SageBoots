@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The game Assassin's Creed 3 is what started me down the path to becoming a programmer
 
 ## 📄 My CV:
-- [View my CV](https://drive.google.com/file/d/1jH39ibal6cjyBlR6yxY29kQ_ZvW3XwE4/view?usp=drive_link)
-- [Email Me](mailto:bckgopodithate@gmail.com)
+- [View my CV](#) https://drive.google.com/file/d/1jH39ibal6cjyBlR6yxY29kQ_ZvW3XwE4/view?usp=drive_link
+- [Email Me](mailto:your.email@example.com) bckgopodithate@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](sageboots)
