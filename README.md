@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <a href="https://drive.google.com/file/d/1jH39ibal6cjyBlR6yxY29kQ_ZvW3XwE4/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="CV Button"/>
 </a>
-
-<a href="bckgopodithate@gmail.com">
+<br/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bckgopodithate@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge" alt="Email Button"/>
 </a>
 
