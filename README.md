@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about history, video games, cartoons or anime and chances are I'll know what I'm talking about
 - ⚡ Fun fact: The game Assassin's Creed 3 is what started me down the path to becoming a programmer
 -->
-
+## 💫 About me: 
 - 🔭 I’m currently working on small game projects to experiment with game mechanics and systems in Unity
 - 🌱 I’m currently learning 2D pixel animation and how to use game engines such as Unity and Unreal
 - 👯 I’m looking to collaborate on developing an anime-inspired, sprite-based, 2D action-RPG along the veins of Dead Cells, Katana Zero or titles in the styles of Metroidvanias
@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The game Assassin's Creed 3 is what started me down the path to becoming a programmer
 
 ## 📄 My CV:
-## 📄 My CV:
 <a href="https://drive.google.com/file/d/1jH39ibal6cjyBlR6yxY29kQ_ZvW3XwE4/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="CV Button"/>
 </a>
+
 <a href="bckgopodithate@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge" alt="Email Button"/>
 </a>
